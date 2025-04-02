@@ -1,1 +1,3 @@
-# AI-Blockchain
+# AI-Blockchain Project Abstract
+
+**Blockchain-Based AI Security Auditor** is an AI-powered tool designed to automatically scan smart contracts and blockchain protocols for vulnerabilities using machine learning. It leverages static analysis and pretrained models to identify security issues, then records immutable audit trails on-chain for transparency. To ensure accuracy and trust, community validators can verify AI-generated reports via a decentralized staking and voting mechanism, earning token-based incentives. A real-time dashboard visualizes contract risk, audit status, and validation outcomes. This project integrates advanced AI techniques, secure smart contract development, and decentralized governance to create a transparent, scalable solution for blockchain security.
