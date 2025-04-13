@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+web3
+flask
+pytest
+black
+pylint
